@@ -2,6 +2,14 @@
 
 A full-scale car marketplace platform designed to provide users with a seamless experience for browsing, comparing, and booking cars.
 
+## 🎥 Project Demo
+
+Explore Dakheel through the project demonstration videos:
+
+[▶ Watch Dakheel Project Demo – Google Drive](https://drive.google.com/drive/folders/12adJa4tGAmpJ6sA0x3X5LqPqHoGNj_a-?usp=drive_link)
+
+
+
 ##  Live Demo
 
 - **Website:** https://dakheelcars.com/
